@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayush
+- Hi 👋, I’m Ayush
 - 👀 I’m interested in Web & Android Development
 
 - 🌱 I’m currently learning JavaScript.
