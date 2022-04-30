@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ayush
 - 👀 I’m interested in Web & Android Development
+
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on flutter
+- 🤝 I’m looking to collaborate on flutter
 - 📫 How to reach me ... ayushkumar1702@gmail.com
 
 <!---
